@@ -1,6 +1,6 @@
 # Lab walkthrough
 
-This is the command-level record. The [README](../README.md) is the case study.
+This is the command-level record. The [README](../README.md) is the brief. Screenshot proofs live in [CLI evidence](evidence.md).
 
 All tests used environment variables. Secrets were never echoed, committed, or captured in screenshots.
 
